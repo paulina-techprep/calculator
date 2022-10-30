@@ -1,2 +1,2 @@
 # calculator
-TechReady project - Calculator
+Calculator app (HTML, CSS, JS) - TechReady Coding Project
